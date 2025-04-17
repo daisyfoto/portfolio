@@ -1,5 +1,5 @@
 # Adisak Jarernpol
-## Senior iOS Tech Lead
+## Technical Lead iOS developer
 
 👋 Hi, I'm a passionate iOS Tech Lead with 5 years of experience in developing high-quality mobile applications.
 

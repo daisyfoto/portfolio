@@ -1,15 +1,25 @@
 # Adisak Jarernpol
-## Technical Lead iOS developer
+## Technical Lead Mobile iOS developer
 
-👋 Hi, I'm a passionate iOS Tech Lead with 5 years of experience in developing high-quality mobile applications.
+👋 Hi, I'm A , I'm a passionate iOS Tech Lead with 5 years of experience in developing high-quality mobile applications.
+Work in finance industry 8 years, so I have strong understanding of financial products and services.
 
+## What I do past 5 years
+- Time management and prioritization for deliver product on time
+- Leadership abilities to guide and support a development team
+- Design and implement system architecture
+- Code review and provide guidance
+- Troubleshoot and debug complex issues
+- Optimize app performance and maintainability
+- Looking help and support careers path for team members
+  
 ## 🛠 Technical Skills
-- Swift & SwiftUI
-- Objective-C 
-- Design Patterns (MVC, MVVM, Clean Architecture)
-- Git & CI/CD
-- Unit Testing & UI Testing
-- Fastlane
+- Strong iOS development skills using `Swift` and `Objective-C`.
+- Design Patterns `Clean Architecture`, `MVVM`, `MVC`, `MVP`
+- Familiar with CI/CD process, with `Fastlane` and `Jenkins`
+- Experience with unit both `XCTest` and `SwiftTesting`
+- Experience with UI testing `Cucumber` and `XCUITest`
+- Design architecture for APIs or Real-time data like `WebSockets`
 
 ## 📱 Featured Projects
 

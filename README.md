@@ -39,5 +39,5 @@ Work in finance industry 8 years, so I have strong understanding of financial pr
 - **App Store Link**: [Download](https://apps.apple.com/th/app/ks-one/id1605525381?l=th)
 
 ## 📫 Get in Touch
-- Mobile: 0850592546
+- Mobile: [0850592546](tel:+66850592546)
 - Email: daisyfoto.ai@gmail.com

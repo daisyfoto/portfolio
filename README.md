@@ -1,4 +1,7 @@
 # Adisak Jarernpol
+
+<img src="sources/profile.png" width="200" alt="Adisak Jarernpol">
+
 ## Technical Lead Mobile iOS developer
 
 👋 Hi, I'm A , I'm a passionate iOS Tech Lead with 5 years of experience in developing high-quality mobile applications.

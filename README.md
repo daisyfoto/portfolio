@@ -2,10 +2,30 @@
 
 <img src="sources/profile.png" width="200" alt="Adisak Jarernpol">
 
-## Technical Lead Mobile iOS developer
+**Technical Lead Mobile iOS developer**
 
 👋 Hi, I'm A , I'm a passionate iOS Tech Lead with 5 years of experience in developing high-quality mobile applications.
 Work in finance industry 8 years, so I have strong understanding of financial products and services.
+
+## Experience
+
+### 🚀 R'ket
+**Team Lead Manager iOS**  
+*Nov 2023 - Present · 1 yr 6 mos*  
+Bangkok, Bangkok City, Thailand 
+
+### 📊 AVA ADVISORY
+**Team Lead Manager iOS**  
+*Jan 2021 - Nov 2023 · 2 yrs 11 mos*  
+
+**Senior Software Engineer**  
+*Apr 2015 - Apr 2020 · 5 yrs 1 mo*  
+Bangkok, Bangkok City, Thailand 
+
+### 💻 Market Anyware
+**Software Engineer**  
+*Apr 2009 - Apr 2015 · 6 yrs 1 mo*  
+Bangkok, Bangkok City, Thailand 
 
 ## What I do past 5 years
 - Manage, coach, and support engineering team iOS.
@@ -30,6 +50,7 @@ Work in finance industry 8 years, so I have strong understanding of financial pr
 - Understanding of `iOS` and `Android` security implementation data storage like `Keychain`, `Secure Enclave`
 - Experience in implement `e-KYC`, `AML`
 - For AI, I have experience in setup `Cursor` for iOS development team
+- Implement `MCP` for out team to work smoothly with design team
 
 ## 📱 Featured Projects
 

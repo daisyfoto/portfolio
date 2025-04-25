@@ -16,7 +16,7 @@ Work in finance industry 8 years, so I have strong understanding of financial pr
 - Participate in knowledge sharing.
 
 ## 🛠 Technical Skills
-- Strong iOS development skills using `Swift` and `Objective-C`.
+- Expert in iOS skills using `Swift` and `Objective-C`.
 - Design Patterns `Clean Architecture`, `MVVM`, `MVC`, `MVP`
 - Familiar with CI/CD process, with `Fastlane` and `Jenkins`
 - Experience in `Codesign` for working with multiple team members

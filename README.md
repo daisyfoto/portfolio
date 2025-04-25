@@ -5,21 +5,28 @@
 Work in finance industry 8 years, so I have strong understanding of financial products and services.
 
 ## What I do past 5 years
+- Manage, coach, and support engineering team iOS.
+- Lead the design/development of large-scale software solution.
 - Time management and prioritization for deliver product on time
-- Leadership abilities to guide and support a development team
 - Design and implement system architecture
 - Code review and provide guidance
 - Troubleshoot and debug complex issues
 - Optimize app performance and maintainability
 - Looking help and support careers path for team members
-  
+- Participate in knowledge sharing.
+
 ## 🛠 Technical Skills
 - Strong iOS development skills using `Swift` and `Objective-C`.
 - Design Patterns `Clean Architecture`, `MVVM`, `MVC`, `MVP`
 - Familiar with CI/CD process, with `Fastlane` and `Jenkins`
+- Experience in `Codesign` for working with multiple team members
 - Experience with unit both `XCTest` and `SwiftTesting`
-- Experience with UI testing `Cucumber` and `XCUITest`
+- Experience with UI testing `Cucumber` or `XCUITest`
 - Design architecture for APIs or Real-time data like `WebSockets`
+- Experience in apply `OWASP mobile security testing guide` to secure app
+- Understanding of `iOS` and `Android` security implementation data storage like `Keychain`, `Secure Enclave`
+- Experience in implement `e-KYC`, `AML`
+- For AI, I have experience in setup `Cursor` for iOS development team
 
 ## 📱 Featured Projects
 
@@ -40,4 +47,5 @@ Work in finance industry 8 years, so I have strong understanding of financial pr
 
 ## 📫 Get in Touch
 - Mobile: [0850592546](tel:+66850592546)
+- LinkedIn: [Adisak Jarernpol](https://www.linkedin.com/in/daisyfoto/)
 - Email: daisyfoto.ai@gmail.com

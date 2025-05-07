@@ -69,6 +69,12 @@ Bangkok, Bangkok City, Thailand
 
 - **App Store Link**: [Download](https://apps.apple.com/th/app/ks-one/id1605525381?l=th)
 
+## Education
+
+### Mahanakorn University of Technology
+- Bachelor’s Degree, Computer Engineering
+- 2005 - 2009
+
 ## 📫 Get in Touch
 - Mobile: [0850592546](tel:+66850592546)
 - LinkedIn: [Adisak Jarernpol](https://www.linkedin.com/in/daisyfoto/)

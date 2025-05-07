@@ -40,8 +40,9 @@ Bangkok, Bangkok City, Thailand
 
 ## 🛠 Technical Skills
 - Expert in iOS skills using `Swift` and `Objective-C`.
+- Expert in `SwiftUI` and `UIKit`
 - Design Patterns `Clean Architecture`, `MVVM`, `MVC`, `MVP`
-- Familiar with CI/CD process, with `Fastlane` and `Jenkins`
+- Familiar with CI/CD process, with `Fastlane` and `Jenkins` by using `Self-hosted` and `Git-hub Actions`
 - Experience in `Codesign` for working with multiple team members
 - Experience with unit both `XCTest` and `SwiftTesting`
 - Experience with UI testing `Cucumber` or `XCUITest`
@@ -51,6 +52,7 @@ Bangkok, Bangkok City, Thailand
 - Experience in implement `e-KYC`, `AML`
 - For AI, I have experience in setup `Cursor` for iOS development team
 - Implement `MCP` for out team to work smoothly with design team
+- Deep understanding of `Notification system` and `Widget` or `In-app purchase`
 
 ## 📱 Featured Projects
 

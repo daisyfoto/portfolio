@@ -38,6 +38,12 @@ Bangkok, Bangkok City, Thailand
 - Looking help and support careers path for team members
 - Participate in knowledge sharing.
 
+## About Banking and Financial industry
+- Experience in implement `e-KYC`, `AML` with `Thai Bank`
+- Experience in implement `Portfolio Management`
+- Experience in implement `Trade` with `Offshore` `Mutual Fund`
+- Experience in implement stock data from `US Stock Exchange` or `Thai Stock Exchange`
+
 ## 🛠 Technical Skills
 - Expert in iOS skills using `Swift` and `Objective-C`.
 - Expert in `SwiftUI` and `UIKit`

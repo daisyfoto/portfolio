@@ -7,6 +7,11 @@
 👋 Hi, I'm A , I'm a passionate iOS Tech Lead with 5 years of experience in developing high-quality mobile applications.
 Work in finance industry 8 years, so I have strong understanding of financial products and services.
 
+## 📫 Get in Touch
+- Mobile: [0850592546](tel:+66850592546)
+- LinkedIn: [Adisak Jarernpol](https://www.linkedin.com/in/daisyfoto/)
+- Email: daisyfoto.ai@gmail.com
+
 ## Experience
 
 ### 🚀 R'ket
@@ -60,6 +65,11 @@ Bangkok, Bangkok City, Thailand
 - Implement `MCP` for out team to work smoothly with design team
 - Deep understanding of `Notification system` and `Widget` or `In-app purchase`
 
+## Education
+### Mahanakorn University of Technology
+- Bachelor’s Degree, Computer Engineering
+- 2005 - 2009
+
 ## 📱 Featured Projects
 
 ### R'ket - Insightful Investment
@@ -76,14 +86,3 @@ Bangkok, Bangkok City, Thailand
 <img src="sources/ksone.png" width="200">
 
 - **App Store Link**: [Download](https://apps.apple.com/th/app/ks-one/id1605525381?l=th)
-
-## Education
-
-### Mahanakorn University of Technology
-- Bachelor’s Degree, Computer Engineering
-- 2005 - 2009
-
-## 📫 Get in Touch
-- Mobile: [0850592546](tel:+66850592546)
-- LinkedIn: [Adisak Jarernpol](https://www.linkedin.com/in/daisyfoto/)
-- Email: daisyfoto.ai@gmail.com

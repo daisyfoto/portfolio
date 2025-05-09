@@ -67,7 +67,7 @@ Bangkok, Bangkok City, Thailand
 
 ## Education
 ### Mahanakorn University of Technology
-- Bachelor’s Degree, Computer Engineering
+- Bachelor's Degree, Computer Engineering
 - 2005 - 2009
 
 ## 📱 Featured Projects
